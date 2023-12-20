@@ -10,8 +10,8 @@
 
 | Type oppgave                       | Innleveringsfrist | Ressurser |
 |------------------------------------|-------------------|-----------|
-|Mappeoppgave 1                      | 15. mars 2024 kl. 16:00  | kommer |
-|Mappeoppgave 2                      | 05. april 2024 kl. 16:00 | kommer |
+|Mappeoppgave 1                      | 15. mars 2024 kl. 16:00  | [Utfordring 1]() |
+|Mappeoppgave 2                      | 05. april 2024 kl. 16:00 | [Utfordring 2]() |
 
 
 Oppgavene skal løses i grupper på maksimalt 3.
