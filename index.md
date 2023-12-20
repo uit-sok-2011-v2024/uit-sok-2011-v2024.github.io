@@ -1,12 +1,9 @@
 {% include navbar.html %}  {% include top-box.html %}
 
 
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
-
-
 ## Kursplan  
 
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
+Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, og ressurser/oppgaver.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
 - [Forelesningsplan](forelesningsplan.html){:target="blank"}
@@ -16,16 +13,13 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 
 [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
+## Kursbeskrivelse
+Kurset SOK-2011 har som mål å gi deg kunnskap, ferdigheter og kompetanse innenfor temaet "Økonomisk vekst og bærekraftig utvikling". På kurset vil du lære teorier om hva som driver økonomisk vekst på lang sikt, hvilke faktorer som begrenser veksten i den materielle velferden, og hvordan vi kan teste prediksjoner fra teoriene. Du vil også få en innføring i bærekraftig utvikling. 
 
-## Kursbeskrivelse 
-
-
-Kurset består av ulike interessante tema  
 
 
 ## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
+- [Andrea Mannberg](https://uit.no/ansatte/andrea.mannberg){:target="blank"} (fagansvarlig)
 
 
 
@@ -38,9 +32,9 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ### Pensum til forelesningene
 
+- Peter N. Hess. Economic Growth and Sustainable Development. Second edition. Routledge. 2016.
+
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
-
-
 
 
 ## Kunngjøringer  
@@ -50,7 +44,6 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Kurset har mappeevaluering og muntlig eksamen. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
 
 Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
-
