@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>SOK-2011 V2024: Utfodring 1</title>
+<title>SOK-2011 v2024: Utfodring 1</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -2607,7 +2607,7 @@ vertical-align: -.125em;
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">SOK-2011 V2024: Utfodring 1</h1>
+<h1 class="title">SOK-2011 v2024: Utfodring 1</h1>
 </div>
 
 
@@ -2622,8 +2622,8 @@ vertical-align: -.125em;
 
 </header>
 
-<section id="generell-informasjon" class="level1">
-<h1>Generell informasjon</h1>
+<section id="generell-informasjon" class="level2">
+<h2 class="anchored" data-anchor-id="generell-informasjon">Generell informasjon</h2>
 <ul>
 <li>Fristen for innlevering er den <strong>15. mars kl 16:00</strong></li>
 <li>Oppgaven kan gi maks 3 poeng (1/6 av total maks-poeng)</li>
@@ -2635,9 +2635,12 @@ vertical-align: -.125em;
 <li>Kod skal leveres i et separat dokumentet (qmd-fil er ok) eller som appendiks til oppgaven.</li>
 <li>Bruk av KI skal rapporteres i en appendiks til oppgaven. Sjekk at eventuelle lenker fungerer.</li>
 </ul>
+</section>
 <section id="informasjon-om-utfordring-1" class="level2">
 <h2 class="anchored" data-anchor-id="informasjon-om-utfordring-1">Informasjon om utfordring 1</h2>
-<p>I denne utfordringen skal dere gjennomføre en teoretisk analyse av Solow-modellen. For å klare utfodringen må dere gjøre rede for matematikk, illustrere grafisk og gi økonomisk intuisjon. Dere må i tillegg gjøre rede for antakelser som ligger bak teorien. Dere finner støtte til kode-oppgavene lengst nede i dette dokumentet. Dere må selve utlede de matematiske uttrykkene.</p>
+<p>I denne utfordringen skal dere gjennomføre en teoretisk analyse av Solow-modellen. For å klare utfodringen må dere gjøre rede for matematikk, illustrere grafisk og gi økonomisk intuisjon. Dere må i tillegg gjøre rede for antakelser som ligger bak teorien.</p>
+<p>Utfordringen er knyttet til kapittel 1 og 7 i Hess.</p>
+<p>Dere finner støtte til kode-oppgavene lengst nede i dette dokumentet. Dere må selve utlede de matematiske uttrykkene.</p>
 <section id="utfordring-1.1" class="level3">
 <h3 class="anchored" data-anchor-id="utfordring-1.1">Utfordring 1.1</h3>
 <p>Solow-modellen predikerer at nivået på spareraten og befolkningsvekstraten er helt sentrale for nivået på produksjonen per arbeider på lang sikt (steady state).</p>
@@ -2653,19 +2656,18 @@ vertical-align: -.125em;
 <li>Gi økonomisk intuisjon til din matematiske utledning og til dine figurer (forklar hva og hvorfor).</li>
 </ol>
 </section>
-</section>
-<section id="utfordring-1.2" class="level2">
-<h2 class="anchored" data-anchor-id="utfordring-1.2">Utfordring 1.2</h2>
+<section id="utfordring-1.2" class="level3">
+<h3 class="anchored" data-anchor-id="utfordring-1.2">Utfordring 1.2</h3>
 <p>Hva predikterer konvergens-teorien? Illustrer grafisk og forklar mekanismene bak konvergens.</p>
 <p>Husk å gjøre rede for både hva konvergensteorien predikerer i forhold til hvordan forskjeller i BNP per innbygger vil endres over tid, og hva teorien predikerer i forhold til vekstraten i BNP per innbygger i fattige og rike land.</p>
 </section>
-<section id="utfordring-1.3" class="level2">
-<h2 class="anchored" data-anchor-id="utfordring-1.3">Utfordring 1.3</h2>
+<section id="utfordring-1.3" class="level3">
+<h3 class="anchored" data-anchor-id="utfordring-1.3">Utfordring 1.3</h3>
 <p>Solow-modellen med teknologisk utvikling og naturressurser gir prediksjoner om hvordan ulike faktorer påvirker vekstraten i BNP per innbygger på lang sikt.</p>
 <p>Presenter en ligning som beskriver vekstraten i BNP per innbygger på lang sikt (du trenger ikke å utlede ligningen). Bruk ligningen til å forklare prediksjonene til Solow-modellen i forhold til bestemmelsesfaktorer for økonomisk vekst på lang sikt. Gi økonomisk intuisjon.</p>
 </section>
-<section id="støtte-til-figur-1---3" class="level2">
-<h2 class="anchored" data-anchor-id="støtte-til-figur-1---3">Støtte til figur 1 - 3</h2>
+<section id="støtte-til-figur-1---3" class="level3">
+<h3 class="anchored" data-anchor-id="støtte-til-figur-1---3">Støtte til figur 1 - 3</h3>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># | warnings : false</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
@@ -2781,65 +2783,59 @@ vertical-align: -.125em;
 <span id="cb1-112"><a href="#cb1-112" aria-hidden="true" tabindex="-1"></a>           <span class="at">label=</span><span class="fu">expression</span>(k<span class="sc">^</span>{ss1}))</span>
 <span id="cb1-113"><a href="#cb1-113" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-114"><a href="#cb1-114" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-115"><a href="#cb1-115" aria-hidden="true" tabindex="-1"></a>figur_2</span>
-<span id="cb1-116"><a href="#cb1-116" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-117"><a href="#cb1-117" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-118"><a href="#cb1-118" aria-hidden="true" tabindex="-1"></a><span class="co"># Endring i befolkningsvekstraten</span></span>
-<span id="cb1-119"><a href="#cb1-119" aria-hidden="true" tabindex="-1"></a>s <span class="ot">&lt;-</span> <span class="fl">0.07</span></span>
-<span id="cb1-120"><a href="#cb1-120" aria-hidden="true" tabindex="-1"></a>n0 <span class="ot">&lt;-</span> <span class="fl">0.04</span></span>
-<span id="cb1-121"><a href="#cb1-121" aria-hidden="true" tabindex="-1"></a>n1 <span class="ot">&lt;-</span> <span class="fl">0.05</span></span>
-<span id="cb1-122"><a href="#cb1-122" aria-hidden="true" tabindex="-1"></a>A <span class="ot">&lt;-</span> <span class="dv">50</span></span>
-<span id="cb1-123"><a href="#cb1-123" aria-hidden="true" tabindex="-1"></a>sy <span class="ot">&lt;-</span> <span class="cf">function</span>(k) (<span class="co">#Sett inn ligning) </span></span>
-<span id="cb1-124"><a href="#cb1-124" aria-hidden="true" tabindex="-1"></a>n0k <span class="ot">&lt;-</span> <span class="cf">function</span>(k) (<span class="co">#Sett inn ligning)</span></span>
-<span id="cb1-125"><a href="#cb1-125" aria-hidden="true" tabindex="-1"></a>n1k <span class="ot">&lt;-</span> <span class="cf">function</span>(k) (<span class="co">#Sett inn ligning)</span></span>
-<span id="cb1-126"><a href="#cb1-126" aria-hidden="true" tabindex="-1"></a>ss0_k <span class="ot">&lt;-</span> (<span class="co">#Sett inn ligning)</span></span>
-<span id="cb1-127"><a href="#cb1-127" aria-hidden="true" tabindex="-1"></a>ss1_k <span class="ot">&lt;-</span> (<span class="co">#Sett inn ligning)</span></span>
-<span id="cb1-128"><a href="#cb1-128" aria-hidden="true" tabindex="-1"></a>ss0_nk <span class="ot">&lt;-</span><span class="co">#Sett inn ligning</span></span>
-<span id="cb1-129"><a href="#cb1-129" aria-hidden="true" tabindex="-1"></a>ss1_nk <span class="ot">&lt;-</span><span class="co">#Sett inn ligning</span></span>
-<span id="cb1-130"><a href="#cb1-130" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-131"><a href="#cb1-131" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-132"><a href="#cb1-132" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-133"><a href="#cb1-133" aria-hidden="true" tabindex="-1"></a>figur_3 <span class="ot">&lt;-</span> axes_1<span class="sc">+</span></span>
-<span id="cb1-134"><a href="#cb1-134" aria-hidden="true" tabindex="-1"></a>  <span class="fu">stat_function</span>(df,</span>
-<span id="cb1-135"><a href="#cb1-135" aria-hidden="true" tabindex="-1"></a>                <span class="at">fun=</span>sy,</span>
-<span id="cb1-136"><a href="#cb1-136" aria-hidden="true" tabindex="-1"></a>                <span class="at">mapping =</span> <span class="fu">aes</span>() <span class="co"># Faktiske investeringer</span></span>
-<span id="cb1-137"><a href="#cb1-137" aria-hidden="true" tabindex="-1"></a>  )<span class="sc">+</span></span>
-<span id="cb1-138"><a href="#cb1-138" aria-hidden="true" tabindex="-1"></a>  <span class="fu">stat_function</span>(df,</span>
-<span id="cb1-139"><a href="#cb1-139" aria-hidden="true" tabindex="-1"></a>                <span class="at">fun=</span>n0k,</span>
-<span id="cb1-140"><a href="#cb1-140" aria-hidden="true" tabindex="-1"></a>                <span class="at">mapping =</span> <span class="fu">aes</span>() <span class="co"># Nødvendige inesteringer n0</span></span>
-<span id="cb1-141"><a href="#cb1-141" aria-hidden="true" tabindex="-1"></a>  )<span class="sc">+</span></span>
-<span id="cb1-142"><a href="#cb1-142" aria-hidden="true" tabindex="-1"></a>  <span class="fu">stat_function</span>(df,</span>
-<span id="cb1-143"><a href="#cb1-143" aria-hidden="true" tabindex="-1"></a>                <span class="at">fun=</span>n1k,</span>
-<span id="cb1-144"><a href="#cb1-144" aria-hidden="true" tabindex="-1"></a>                <span class="at">mapping =</span> <span class="fu">aes</span>(),</span>
-<span id="cb1-145"><a href="#cb1-145" aria-hidden="true" tabindex="-1"></a>                <span class="at">color =</span> <span class="st">&quot;blue&quot;</span> <span class="co"># Nødvendige inesteringer n1</span></span>
-<span id="cb1-146"><a href="#cb1-146" aria-hidden="true" tabindex="-1"></a>  )<span class="sc">+</span></span>
-<span id="cb1-147"><a href="#cb1-147" aria-hidden="true" tabindex="-1"></a>  <span class="fu">annotate</span>(<span class="st">&quot;text&quot;</span>,</span>
-<span id="cb1-148"><a href="#cb1-148" aria-hidden="true" tabindex="-1"></a>           <span class="at">x =</span> , <span class="co">#sett inn tall</span></span>
-<span id="cb1-149"><a href="#cb1-149" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> ,<span class="co">#sett inn tall</span></span>
-<span id="cb1-150"><a href="#cb1-150" aria-hidden="true" tabindex="-1"></a>           <span class="at">label=</span><span class="fu">expression</span>(<span class="co">#Navn))+ # Navn til faktiske investeringer</span></span>
-<span id="cb1-151"><a href="#cb1-151" aria-hidden="true" tabindex="-1"></a>  <span class="fu">annotate</span>(<span class="st">&quot;text&quot;</span>,</span>
-<span id="cb1-152"><a href="#cb1-152" aria-hidden="true" tabindex="-1"></a>           <span class="at">x =</span> , <span class="co">#sett inn tall</span></span>
-<span id="cb1-153"><a href="#cb1-153" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> , <span class="co">#sett inn tall</span></span>
-<span id="cb1-154"><a href="#cb1-154" aria-hidden="true" tabindex="-1"></a>           <span class="at">label=</span><span class="fu">expression</span>(<span class="co">#Navn))+ # Navn til nødvendige investeringer</span></span>
-<span id="cb1-155"><a href="#cb1-155" aria-hidden="true" tabindex="-1"></a>  <span class="fu">annotate</span>(<span class="st">&quot;text&quot;</span>,</span>
-<span id="cb1-156"><a href="#cb1-156" aria-hidden="true" tabindex="-1"></a>           <span class="at">x =</span> , <span class="co">#Sett in tall</span></span>
-<span id="cb1-157"><a href="#cb1-157" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> , <span class="co">#Sett in tall </span></span>
-<span id="cb1-158"><a href="#cb1-158" aria-hidden="true" tabindex="-1"></a>           <span class="at">label=</span><span class="fu">expression</span>(<span class="co">#Navn))+ # Navn og plassering til nødvendige investeringer</span></span>
-<span id="cb1-159"><a href="#cb1-159" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_segment</span>(<span class="fu">aes</span>(<span class="at">x =</span> ss0_k, <span class="at">xend =</span> ss0_k, <span class="at">y =</span> <span class="dv">0</span>, <span class="at">yend =</span> ss0_nk), <span class="at">linetype =</span> <span class="st">&quot;dashed&quot;</span>, <span class="at">color =</span> <span class="st">&quot;red&quot;</span>) <span class="sc">+</span> <span class="co"># ss0</span></span>
-<span id="cb1-160"><a href="#cb1-160" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_segment</span>(<span class="fu">aes</span>(<span class="at">x =</span> <span class="dv">0</span>, <span class="at">xend =</span> ss0_k, <span class="at">y =</span> ss0_nk, <span class="at">yend =</span> ss0_nk), <span class="at">linetype =</span> <span class="st">&quot;dashed&quot;</span>, <span class="at">color =</span> <span class="st">&quot;red&quot;</span>) <span class="sc">+</span> <span class="co"># ss0</span></span>
-<span id="cb1-161"><a href="#cb1-161" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_segment</span>(<span class="fu">aes</span>(<span class="at">x =</span> ss1_k, <span class="at">xend =</span> ss1_k, <span class="at">y =</span> <span class="dv">0</span>, <span class="at">yend =</span> ss1_nk), <span class="at">linetype =</span> <span class="st">&quot;dashed&quot;</span>, <span class="at">color =</span> <span class="st">&quot;red&quot;</span>) <span class="sc">+</span> <span class="co"># ss0</span></span>
-<span id="cb1-162"><a href="#cb1-162" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_segment</span>(<span class="fu">aes</span>(<span class="at">x =</span> <span class="dv">0</span>, <span class="at">xend =</span> ss1_k, <span class="at">y =</span> ss1_nk, <span class="at">yend =</span> ss1_nk), <span class="at">linetype =</span> <span class="st">&quot;dashed&quot;</span>, <span class="at">color =</span> <span class="st">&quot;red&quot;</span>) <span class="sc">+</span> <span class="co"># ss0</span></span>
-<span id="cb1-163"><a href="#cb1-163" aria-hidden="true" tabindex="-1"></a>  <span class="fu">annotate</span>(<span class="st">&quot;text&quot;</span>,</span>
-<span id="cb1-164"><a href="#cb1-164" aria-hidden="true" tabindex="-1"></a>           <span class="at">x =</span> ss0_k <span class="sc">+</span> <span class="dv">40</span>,</span>
-<span id="cb1-165"><a href="#cb1-165" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> <span class="dv">1</span>, </span>
-<span id="cb1-166"><a href="#cb1-166" aria-hidden="true" tabindex="-1"></a>           <span class="at">label=</span><span class="fu">expression</span>(k<span class="sc">^</span>{ss0}))<span class="sc">+</span></span>
-<span id="cb1-167"><a href="#cb1-167" aria-hidden="true" tabindex="-1"></a>  <span class="fu">annotate</span>(<span class="st">&quot;text&quot;</span>,</span>
-<span id="cb1-168"><a href="#cb1-168" aria-hidden="true" tabindex="-1"></a>           <span class="at">x =</span> ss1_k <span class="sc">+</span> <span class="dv">40</span>,</span>
-<span id="cb1-169"><a href="#cb1-169" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> <span class="dv">1</span>, </span>
-<span id="cb1-170"><a href="#cb1-170" aria-hidden="true" tabindex="-1"></a>           <span class="at">label=</span><span class="fu">expression</span>(k<span class="sc">^</span>{ss1}))</span>
-<span id="cb1-171"><a href="#cb1-171" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-172"><a href="#cb1-172" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-173"><a href="#cb1-173" aria-hidden="true" tabindex="-1"></a>figur_3</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-115"><a href="#cb1-115" aria-hidden="true" tabindex="-1"></a><span class="co"># Endring i befolkningsvekstraten</span></span>
+<span id="cb1-116"><a href="#cb1-116" aria-hidden="true" tabindex="-1"></a>s <span class="ot">&lt;-</span> <span class="fl">0.07</span></span>
+<span id="cb1-117"><a href="#cb1-117" aria-hidden="true" tabindex="-1"></a>n0 <span class="ot">&lt;-</span> <span class="fl">0.04</span></span>
+<span id="cb1-118"><a href="#cb1-118" aria-hidden="true" tabindex="-1"></a>n1 <span class="ot">&lt;-</span> <span class="fl">0.05</span></span>
+<span id="cb1-119"><a href="#cb1-119" aria-hidden="true" tabindex="-1"></a>A <span class="ot">&lt;-</span> <span class="dv">50</span></span>
+<span id="cb1-120"><a href="#cb1-120" aria-hidden="true" tabindex="-1"></a>sy <span class="ot">&lt;-</span> <span class="cf">function</span>(k) (<span class="co">#Sett inn ligning) </span></span>
+<span id="cb1-121"><a href="#cb1-121" aria-hidden="true" tabindex="-1"></a>n0k <span class="ot">&lt;-</span> <span class="cf">function</span>(k) (<span class="co">#Sett inn ligning)</span></span>
+<span id="cb1-122"><a href="#cb1-122" aria-hidden="true" tabindex="-1"></a>n1k <span class="ot">&lt;-</span> <span class="cf">function</span>(k) (<span class="co">#Sett inn ligning)</span></span>
+<span id="cb1-123"><a href="#cb1-123" aria-hidden="true" tabindex="-1"></a>ss0_k <span class="ot">&lt;-</span> (<span class="co">#Sett inn ligning)</span></span>
+<span id="cb1-124"><a href="#cb1-124" aria-hidden="true" tabindex="-1"></a>ss1_k <span class="ot">&lt;-</span> (<span class="co">#Sett inn ligning)</span></span>
+<span id="cb1-125"><a href="#cb1-125" aria-hidden="true" tabindex="-1"></a>ss0_nk <span class="ot">&lt;-</span><span class="co">#Sett inn ligning</span></span>
+<span id="cb1-126"><a href="#cb1-126" aria-hidden="true" tabindex="-1"></a>ss1_nk <span class="ot">&lt;-</span><span class="co">#Sett inn ligning</span></span>
+<span id="cb1-127"><a href="#cb1-127" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-128"><a href="#cb1-128" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-129"><a href="#cb1-129" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-130"><a href="#cb1-130" aria-hidden="true" tabindex="-1"></a>figur_3 <span class="ot">&lt;-</span> axes_1<span class="sc">+</span></span>
+<span id="cb1-131"><a href="#cb1-131" aria-hidden="true" tabindex="-1"></a>  <span class="fu">stat_function</span>(df,</span>
+<span id="cb1-132"><a href="#cb1-132" aria-hidden="true" tabindex="-1"></a>                <span class="at">fun=</span>sy,</span>
+<span id="cb1-133"><a href="#cb1-133" aria-hidden="true" tabindex="-1"></a>                <span class="at">mapping =</span> <span class="fu">aes</span>() <span class="co"># Faktiske investeringer</span></span>
+<span id="cb1-134"><a href="#cb1-134" aria-hidden="true" tabindex="-1"></a>  )<span class="sc">+</span></span>
+<span id="cb1-135"><a href="#cb1-135" aria-hidden="true" tabindex="-1"></a>  <span class="fu">stat_function</span>(df,</span>
+<span id="cb1-136"><a href="#cb1-136" aria-hidden="true" tabindex="-1"></a>                <span class="at">fun=</span>n0k,</span>
+<span id="cb1-137"><a href="#cb1-137" aria-hidden="true" tabindex="-1"></a>                <span class="at">mapping =</span> <span class="fu">aes</span>() <span class="co"># Nødvendige inesteringer n0</span></span>
+<span id="cb1-138"><a href="#cb1-138" aria-hidden="true" tabindex="-1"></a>  )<span class="sc">+</span></span>
+<span id="cb1-139"><a href="#cb1-139" aria-hidden="true" tabindex="-1"></a>  <span class="fu">stat_function</span>(df,</span>
+<span id="cb1-140"><a href="#cb1-140" aria-hidden="true" tabindex="-1"></a>                <span class="at">fun=</span>n1k,</span>
+<span id="cb1-141"><a href="#cb1-141" aria-hidden="true" tabindex="-1"></a>                <span class="at">mapping =</span> <span class="fu">aes</span>(),</span>
+<span id="cb1-142"><a href="#cb1-142" aria-hidden="true" tabindex="-1"></a>                <span class="at">color =</span> <span class="st">&quot;blue&quot;</span> <span class="co"># Nødvendige inesteringer n1</span></span>
+<span id="cb1-143"><a href="#cb1-143" aria-hidden="true" tabindex="-1"></a>  )<span class="sc">+</span></span>
+<span id="cb1-144"><a href="#cb1-144" aria-hidden="true" tabindex="-1"></a>  <span class="fu">annotate</span>(<span class="st">&quot;text&quot;</span>,</span>
+<span id="cb1-145"><a href="#cb1-145" aria-hidden="true" tabindex="-1"></a>           <span class="at">x =</span> , <span class="co">#sett inn tall</span></span>
+<span id="cb1-146"><a href="#cb1-146" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> ,<span class="co">#sett inn tall</span></span>
+<span id="cb1-147"><a href="#cb1-147" aria-hidden="true" tabindex="-1"></a>           <span class="at">label=</span><span class="fu">expression</span>(<span class="co">#Navn))+ # Navn til faktiske investeringer</span></span>
+<span id="cb1-148"><a href="#cb1-148" aria-hidden="true" tabindex="-1"></a>  <span class="fu">annotate</span>(<span class="st">&quot;text&quot;</span>,</span>
+<span id="cb1-149"><a href="#cb1-149" aria-hidden="true" tabindex="-1"></a>           <span class="at">x =</span> , <span class="co">#sett inn tall</span></span>
+<span id="cb1-150"><a href="#cb1-150" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> , <span class="co">#sett inn tall</span></span>
+<span id="cb1-151"><a href="#cb1-151" aria-hidden="true" tabindex="-1"></a>           <span class="at">label=</span><span class="fu">expression</span>(<span class="co">#Navn))+ # Navn til nødvendige investeringer</span></span>
+<span id="cb1-152"><a href="#cb1-152" aria-hidden="true" tabindex="-1"></a>  <span class="fu">annotate</span>(<span class="st">&quot;text&quot;</span>,</span>
+<span id="cb1-153"><a href="#cb1-153" aria-hidden="true" tabindex="-1"></a>           <span class="at">x =</span> , <span class="co">#Sett in tall</span></span>
+<span id="cb1-154"><a href="#cb1-154" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> , <span class="co">#Sett in tall </span></span>
+<span id="cb1-155"><a href="#cb1-155" aria-hidden="true" tabindex="-1"></a>           <span class="at">label=</span><span class="fu">expression</span>(<span class="co">#Navn))+ # Navn og plassering til nødvendige investeringer</span></span>
+<span id="cb1-156"><a href="#cb1-156" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_segment</span>(<span class="fu">aes</span>(<span class="at">x =</span> ss0_k, <span class="at">xend =</span> ss0_k, <span class="at">y =</span> <span class="dv">0</span>, <span class="at">yend =</span> ss0_nk), <span class="at">linetype =</span> <span class="st">&quot;dashed&quot;</span>, <span class="at">color =</span> <span class="st">&quot;red&quot;</span>) <span class="sc">+</span> <span class="co"># ss0</span></span>
+<span id="cb1-157"><a href="#cb1-157" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_segment</span>(<span class="fu">aes</span>(<span class="at">x =</span> <span class="dv">0</span>, <span class="at">xend =</span> ss0_k, <span class="at">y =</span> ss0_nk, <span class="at">yend =</span> ss0_nk), <span class="at">linetype =</span> <span class="st">&quot;dashed&quot;</span>, <span class="at">color =</span> <span class="st">&quot;red&quot;</span>) <span class="sc">+</span> <span class="co"># ss0</span></span>
+<span id="cb1-158"><a href="#cb1-158" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_segment</span>(<span class="fu">aes</span>(<span class="at">x =</span> ss1_k, <span class="at">xend =</span> ss1_k, <span class="at">y =</span> <span class="dv">0</span>, <span class="at">yend =</span> ss1_nk), <span class="at">linetype =</span> <span class="st">&quot;dashed&quot;</span>, <span class="at">color =</span> <span class="st">&quot;red&quot;</span>) <span class="sc">+</span> <span class="co"># ss0</span></span>
+<span id="cb1-159"><a href="#cb1-159" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_segment</span>(<span class="fu">aes</span>(<span class="at">x =</span> <span class="dv">0</span>, <span class="at">xend =</span> ss1_k, <span class="at">y =</span> ss1_nk, <span class="at">yend =</span> ss1_nk), <span class="at">linetype =</span> <span class="st">&quot;dashed&quot;</span>, <span class="at">color =</span> <span class="st">&quot;red&quot;</span>) <span class="sc">+</span> <span class="co"># ss0</span></span>
+<span id="cb1-160"><a href="#cb1-160" aria-hidden="true" tabindex="-1"></a>  <span class="fu">annotate</span>(<span class="st">&quot;text&quot;</span>,</span>
+<span id="cb1-161"><a href="#cb1-161" aria-hidden="true" tabindex="-1"></a>           <span class="at">x =</span> ss0_k <span class="sc">+</span> <span class="dv">40</span>,</span>
+<span id="cb1-162"><a href="#cb1-162" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> <span class="dv">1</span>, </span>
+<span id="cb1-163"><a href="#cb1-163" aria-hidden="true" tabindex="-1"></a>           <span class="at">label=</span><span class="fu">expression</span>(k<span class="sc">^</span>{ss0}))<span class="sc">+</span></span>
+<span id="cb1-164"><a href="#cb1-164" aria-hidden="true" tabindex="-1"></a>  <span class="fu">annotate</span>(<span class="st">&quot;text&quot;</span>,</span>
+<span id="cb1-165"><a href="#cb1-165" aria-hidden="true" tabindex="-1"></a>           <span class="at">x =</span> ss1_k <span class="sc">+</span> <span class="dv">40</span>,</span>
+<span id="cb1-166"><a href="#cb1-166" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> <span class="dv">1</span>, </span>
+<span id="cb1-167"><a href="#cb1-167" aria-hidden="true" tabindex="-1"></a>           <span class="at">label=</span><span class="fu">expression</span>(k<span class="sc">^</span>{ss1}))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 </section>
