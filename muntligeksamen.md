@@ -6,7 +6,7 @@
 
 ## Opplegg
 * Maks poeng på den muntlige eksamen er 12 poeng (4/6 av total maks-poeng)
-* Den muntlige eksamen blir gjennomført **Individuelt**.
+* Den muntlige eksamen blir gjennomført **individuelt**.
 * Den muntlige eksamen er delt opp i to hoveddeler.
   
 ### Del 1
