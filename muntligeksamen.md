@@ -25,7 +25,7 @@ Etter din presentasjon vil sensorene kunne stille spørsmål til presentasjonen 
 * Tid: 15 minutter
   
 ### Del 2
-I den andre delen av den muntlige eksamen vil du få **en** tilfeldig trukket oppgave knyttet til bærekraft økonomisk vekst. Det kan kreves grafisk illustrasjon og/eller tolkning av matematiske ligninger for å besvare spørsmålene. 
+I den andre delen av den muntlige eksamen vil du få **en** tilfeldig trukket oppgave knyttet til bærekraftig økonomisk vekst og befolkningsutvikling. Det kan kreves grafisk illustrasjon og/eller tolkning av matematiske ligninger for å besvare spørsmålene. 
 
 Spørsmålsbanken vil bli publisert seinest 1 uke før den muntlige eksamen.
 
@@ -45,7 +45,11 @@ $$
 g_y(t) = (g_A + \alpha \cdot j + \beta \cdot m + \gamma \cdot h) + \alpha \cdot \frac{s \cdot y(t) - n\cdot k}{k(t)} - \gamma \cdot (u + n)
 $$
 
+4. Bruk økonomisk teori til å forklare hvordan vi kan forstå at vekstraten i både materiell velferd og befolkning var svært lav fram til 1800-tallet, og at både vekstraten i materiell velferd og befolkning økte betraktelig i slutten av 1800-tallet. 
 
+5. Bruk økonomisk teori til å forklare hvordan vi kan forstå demografiske transisjoner (reduksjon i antall barn per kvinne).
+
+   
 ## Regler
 ### Del 1
 Presentasjonen skal skje ved bruk av lysebilder. Du må lage din presentasjon selv. Det er lov å ha med notater, men dersom du leser innentil gir dette stort fratrekk. Du må vise at du har forstått kursstoffet, ikke bare at du husker. 
