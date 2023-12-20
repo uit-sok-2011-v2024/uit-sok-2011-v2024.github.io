@@ -10,8 +10,8 @@
 
 | Type oppgave                       | Innleveringsfrist | Ressurser |
 |------------------------------------|-------------------|-----------|
-|Mappeoppgave 1                      | 15. mars 2024 kl. 16:00  | [Utfordring 1]() |
-|Mappeoppgave 2                      | 05. april 2024 kl. 16:00 | [Utfordring 2]() |
+|Mappeoppgave 1                      | 15. mars 2024 kl. 16:00  | [Utfordring 1](https://uit-sok-2011-v2024.github.io/assets/sok2011_utf1_2024.html) |
+|Mappeoppgave 2                      | 05. april 2024 kl. 16:00 | [Utfordring 2](https://uit-sok-2011-v2024.github.io/assets/sok2011_utf2_2024.html) |
 
 
 Oppgavene skal løses i grupper på maksimalt 3.
