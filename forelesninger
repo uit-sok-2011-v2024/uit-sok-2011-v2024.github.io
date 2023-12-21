@@ -10,21 +10,10 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 # Seminar
 Her finner du lenker til notater og ressurser til seminarene
 
-# Filmer
-* [Film F4: Solowmodellen med teknologi - matematisk utledning](https://youtu.be/lC-IczavEik)
-  * [Film F4: Bevis for konstant K/Y i steady state - matematisk utledning (overkurs)](https://youtu.be/X5E_lnNk1G4)
-* [Film F5: Solowmodellen med naturressurser - matematisk utledning](https://youtu.be/MuUxb7R1MKE)
-
-# Andre ressurser
-Her finner du andre ressurser som ikke er knyttet direkte til forelesninger eller til pensumboka.
-* <a href="assets/mappekode_Innlevering_1_2_SOK_2011.R"> Oppdatert kode til mappeoppgave 1 og 2 (funker til Rstudio 4.3)</a>{:target="blank"}
-* [IPCC 2023: Summary for Policymakers]()
-* [En interessant (og lang) artikkel om viktigheten av institusjoner for økonomisk vekst på lang sikt](https://doi.org/10.1016/S1574-0684(05)01006-3)
-* [En artikkel om utslipp av CO2 i 2022 fra NOAA](https://essd.copernicus.org/articles/14/4811/2022/)
-* [En podcast om uendelig vekst er mulig](https://freakonomics.com/podcast/two-totally-opposite-ways-to-save-the-planet/)
-* [En youtube-film om klimaendringer](https://www.youtube.com/watch?v=ipVxxxqwBQw)
-* [Noen matematikk-regler](https://github.com/uit-sok-2011-v23/uit-sok-2011-v23.github.io/blob/main/assets/Matematikk.pdf)
-* [Film: matematikk 1 - Matematiske spørsmål](https://youtu.be/BgDntxXBW_Q)
+# Filmer: Solow-modellen
+* [Solowmodellen med teknologi - matematisk utledning](https://youtu.be/lC-IczavEik)
+* [Bevis for konstant K/Y i steady state - matematisk utledning (overkurs)](https://youtu.be/X5E_lnNk1G4)
+* [Solowmodellen med naturressurser - matematisk utledning](https://youtu.be/MuUxb7R1MKE)
 * Andre versjoner av Solow-modellen (annerledes fra pensumboka!)
   * [Antakelser "standard-Solow BAS"](https://youtu.be/JVIaH1djNrM)
   * [Solow BAS modell](https://youtu.be/aNFKSpEIBrI)
@@ -36,4 +25,26 @@ Her finner du andre ressurser som ikke er knyttet direkte til forelesninger elle
   * [Solow med teknologisk utvikling (knyttet til arbeid)](https://youtu.be/Bx3NIOtVwxI)  
   * [Solow med teknologisk utvikling (knyttet til arbeid) - Matematisk utleding av steady state del 1](https://youtu.be/YVncuuOEkeA)  
   * [Solow med teknologisk utvikling (knyttet til arbeid) - Matematisk utleding av steady state del 2](https://youtu.be/Bo9n_HDYNwQ)
-  * [Solow-modellen med ikke fornybare ressurser](https://youtu.be/pNT8rgaDv4s)    
+  * [Solow-modellen med ikke fornybare ressurser](https://youtu.be/pNT8rgaDv4s)  
+
+# Andre ressurser
+Her finner du andre ressurser som du kan ha nytte av.
+
+Matematikk:
+* [Noen matematikk-regler](https://github.com/uit-sok-2011-v23/uit-sok-2011-v23.github.io/blob/main/assets/Matematikk.pdf)
+* [Film: matematikk 1 - Matematiske spørsmål](https://youtu.be/BgDntxXBW_Q)
+
+Bærekraftig utvikling:
+
+Podcasts
+* [Freakonomics: Are E.S.G Investors Actually Helping the Environment?](https://freakonomics.com/podcast/are-e-s-g-investors-actually-helping-the-environment/)
+* [Freakonomics: Two totally opposite ways to save the planet](https://freakonomics.com/podcast/two-totally-opposite-ways-to-save-the-planet/)
+
+Artikler
+* [Institutions as a Fundamental Cause of Long-Run Growth: En interessant (og lang) artikkel om viktigheten av institusjoner for økonomisk vekst på lang sikt](https://doi.org/10.1016/S1574-0684(05)01006-3)
+* [Global Carbon Budget 2022: En artikkel om utslipp av CO2 i 2022 fra NOAA](https://essd.copernicus.org/articles/14/4811/2022/)
+
+Film
+* [Vem är ansvarig för klimatförändringarna? – Vem måste fixa det? En youtube-film om klimaendringer](https://www.youtube.com/watch?v=ipVxxxqwBQw)
+
+  
