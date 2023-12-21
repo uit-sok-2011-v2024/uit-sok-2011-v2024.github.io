@@ -32,8 +32,6 @@ Matematikk:
 * [Noen matematikk-regler](https://github.com/uit-sok-2011-v23/uit-sok-2011-v23.github.io/blob/main/assets/Matematikk.pdf)
 * [Film: matematikk 1 - Matematiske spørsmål](https://youtu.be/BgDntxXBW_Q)
 
-Bærekraftig utvikling:
-
 Podcasts
 * [Freakonomics: Are E.S.G Investors Actually Helping the Environment?](https://freakonomics.com/podcast/are-e-s-g-investors-actually-helping-the-environment/)
 * [Freakonomics: Two totally opposite ways to save the planet](https://freakonomics.com/podcast/two-totally-opposite-ways-to-save-the-planet/)
