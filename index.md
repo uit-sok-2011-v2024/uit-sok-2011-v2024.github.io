@@ -44,6 +44,6 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering og muntlig eksamen. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Kurset har mappeevaluering og muntlig eksamen. Mappen teller 1/3 til karakter på kurset. Den muntlige eksamen teller 2/3 til karakter på kurset. Mappeoppgavene skal gjennomføres i grupper på maksimalt 3 personer (vi anbefaler 2 personer per gruppe). Den muntlige eksamen er individuell. 
 
 Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
