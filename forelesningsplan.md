@@ -9,6 +9,10 @@ Undervisningen på SOK-2011 består av fysiske forelesninger og fysiske seminare
   * F = Forelesing
   * S = Seminar
   * US = Utfordringsseminar
+ 
+ <span style="color:red">
+Text content
+</span>
 
 * Litteratur:
   * Hess = Peter N. Hess. Economic Growth and Sustainable Development. Second edition. Routledge. 2016.
@@ -19,7 +23,7 @@ Undervisningen på SOK-2011 består av fysiske forelesninger og fysiske seminare
 |02  | 08/01/2024  | Mandag    |Forelesning          | Introduksjon til kurset                         |              |
 |02  | 11/01/2024  | Torsdag   |Forelesning          | Introduksjon til økonomisk vekst.               |Hess, kap. 1  |
 |03  | 15/01/2024  | Mandag    |Forelesning          | ØV: Solow-modellen                              |Hess, kap. 7  |
-|03  | 16/01/2024  | Tirsdag   |Seminar              | ØV: Solow basmodell                             |Hess, kap. 7  |
+|03  | 16/01/2024  | Tirsdag   |<span style="color:red">Seminar              | ØV: Solow basmodell                             |Hess, kap. 7 </span> |
 |04  | 23/01/2024  | Tirsdag   |Forelesning          | ØV: Solowmodellen med teknologi                 |Hess, kap. 7  |
 |04  | 25/01/2024  | Torsdag   |Seminar              | ØV: Solowmodellen med teknologi                 |Hess, kap. 7  |
 |05  | 29/01/2024  | Mandag    |Forelesning          | ØV: Solowmodellen med naturressurser            |Hess, kap. 7  |
