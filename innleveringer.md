@@ -5,7 +5,9 @@
 
 - Arbeidskrav er obligatorisk, men inngår ikke i mappen.
 - Mappeinnleveringer er obligatoriske, og danner grunnlag for karakter A-F på kurset.
-- Skriftlige mappeoppgaver leveres i Canvas. 
+- Skriftlige mappeoppgaver leveres i Canvas.
+- Hver innlevering kan gi maks 3 poeng (1/6 av karakter). Mappen teller totalt til 1/3 av karakter på kurset.
+- Mappeoppgavene skal løses i grupper på maksimalt 3.
 
 
 | Type oppgave                       | Innleveringsfrist | Ressurser |
@@ -14,4 +16,4 @@
 |Mappeoppgave 2                      | 05. april 2024 kl. 16:00 | [Utfordring 2](https://uit-sok-2011-v2024.github.io/assets/sok2011_utf2_2024.html) |
 
 
-Oppgavene skal løses i grupper på maksimalt 3.
+
