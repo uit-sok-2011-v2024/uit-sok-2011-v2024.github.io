@@ -32,7 +32,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 ### Pensum til forelesningene
 
 - Peter N. Hess. Economic Growth and Sustainable Development. Second edition. Routledge. 2016.
-- [IPPC = Intergovermental panel of climate change. CLIMATE CHANGE 2023 - Synthesis Report. Summary for Policymakers]()
+- IPPC = Intergovermental panel of climate change. CLIMATE CHANGE 2023 - Synthesis Report. Summary for Policymakers](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/IPCC_AR6_SYR_SPM.pdf) 
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
 
