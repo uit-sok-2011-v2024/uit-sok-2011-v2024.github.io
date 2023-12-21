@@ -3,7 +3,7 @@
 
 ## Innleveringer 
 
-- Arbeidskrav er obligatorisk, men inngår ikke i mappen.
+- Eventuelle arbeidskrav er obligatorisk, men inngår ikke i mappen.
 - Mappeinnleveringer er obligatoriske, og danner grunnlag for karakter A-F på kurset.
 - Skriftlige mappeoppgaver leveres i Canvas.
 - Hver innlevering kan gi maks 3 poeng (1/6 av karakter). Mappen teller totalt til 1/3 av karakter på kurset.
