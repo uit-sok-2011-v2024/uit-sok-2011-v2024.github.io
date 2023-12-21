@@ -9,10 +9,7 @@ Undervisningen på SOK-2011 består av fysiske forelesninger og fysiske seminare
   * F = Forelesing
   * S = Seminar
   * US = Utfordringsseminar
- 
- <span style="color:red">
-Text content
-</span>
+
 
 * Litteratur:
   * Hess = Peter N. Hess. Economic Growth and Sustainable Development. Second edition. Routledge. 2016.
@@ -23,13 +20,13 @@ Text content
 |02  | 08/01/2024  | Mandag    |Forelesning          | Introduksjon til kurset                         |              |
 |02  | 11/01/2024  | Torsdag   |Forelesning          | Introduksjon til økonomisk vekst.               |Hess, kap. 1  |
 |03  | 15/01/2024  | Mandag    |Forelesning          | ØV: Solow-modellen                              |Hess, kap. 7  |
-|03  | 16/01/2024  | Tirsdag   |<span style="color:red">Seminar              | ØV: Solow basmodell                             |Hess, kap. 7 </span> |
+|03  | 16/01/2024  | Tirsdag   |<span style="color:blue">Seminar</span>| ØV: Solow basmodell                             |Hess, kap. 7 |
 |04  | 23/01/2024  | Tirsdag   |Forelesning          | ØV: Solowmodellen med teknologi                 |Hess, kap. 7  |
-|04  | 25/01/2024  | Torsdag   |Seminar              | ØV: Solowmodellen med teknologi                 |Hess, kap. 7  |
+|04  | 25/01/2024  | Torsdag   |<span style="color:blue">Seminar</span>| ØV: Solowmodellen med teknologi                 |Hess, kap. 7  |
 |05  | 29/01/2024  | Mandag    |Forelesning          | ØV: Solowmodellen med naturressurser            |Hess, kap. 7  |
-|05  | 01/02/2024  | Torsdag   |Seminar              | ØV: Solowmodellen med naturressurser            |Hess, kap. 7  |
+|05  | 01/02/2024  | Torsdag   |<span style="color:blue">Seminar</span>| ØV: Solowmodellen med naturressurser            |Hess, kap. 7  |
 |06  | 05/02/2024  | Mandag    |Forelesning          | ØV: Empirisk analyse av Solow-modellen          |Hess, kap. 8  |
-|06  | 08/02/2024  | Torsdag   |Seminar              | US: Introduksjon til utfordring 1 og 2 (mappen) |Hess, kap. 1,7,8 |
+|06  | 08/02/2024  | Torsdag   |<span style="color📗">Seminar</span>| US: Introduksjon til utfordring 1 og 2 (mappen) |Hess, kap. 1,7,8 |
 |07  | 12/02/2024  | Mandag    |Seminar              | Utfordringsseminar 1 (jobb med utfordringer)    |Hess, kap. 1,7,8|
 |07  | 15/02/2024  | Torsdag   |Seminar              | Utfodringsseminar 2  (jobb med utfordringer)    |Hess, kap. 1,7,8|
 |08  | 19/02/2024  | Mandag    |Forelesning          | Befolkningsvekst og demografisk transisjon      | Hess, kap. 2,9-10  |
