@@ -38,7 +38,7 @@ Undervisningen på SOK-2011 består av fysiske forelesninger og fysiske seminare
 |11  |<span style="color:red">15/03/2024 | Fredag    |FRIST| Innlevering utfordring 1         |Hess, kap. 1,7</span>|
 |12  | 20/03/2024  | Onsdag    |Forelesning          | BU: Global tilgang til mat                      | Hess, kap. 13 |
 |14  | 03/04/2024  | Onsdag    |<span style="color:blue">Seminar</span>| Seminar                                         |  |
-|14  |**05/04/2024 | Fredag    |<span style="color:red">FRIST</span>| Innlevering utfordring 2         |Hess, kap. 1,7,8**|
+|14  |<span style="font:bold">05/04/2024 | Fredag    |FRIST| Innlevering utfordring 2        |Hess, kap. 1,7, 8</span>|
 |15  | 08/04/2024  | Mandag    |Forelesning          | BU: Politikk for bærekraftig vekst 1            |Hess, kap. 14-15, IPCC|
 |15  | 11/04/2024  | Tordag    |Forelesning          | BU: Politikk for bærekraftig vekst 2            |Hess, kap. 14-15, IPCC|
 |16  | 15/04/2024  | Mandag    |<span style="color:blue">Seminar</span>| Politikk for bærekraftig vekst (CAP & Trade)     |   |
