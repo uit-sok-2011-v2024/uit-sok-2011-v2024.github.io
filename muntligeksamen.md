@@ -4,8 +4,22 @@
 
 # Muntlig eksamen
 
-## Tidspunkt
-* Uke 23: 3-7 juni 2024
+## Tid for eksamen
+* 3-7 juni (uke 23) 2024
+
+## Skjema
+
+Skjema og plass for muntlig eksamen blir publisert på Canvas seinest 1 uke før eksamen.
+
+**Eksamen starter på det klokkeslett som blir angitt i skjemaet. Vi ønsker at dere er på plass minst 5 minutter før eksamen starter**.
+
+### Bytte av tid
+Det er lov å bytte tidspunkt, men det er regler knyttet til bytte. 
+
+* Dere må selv finne en person å bytte med (vi vil ikke ordne med bytter til dere).
+* Dere må få byttet godkjent av denne personen
+* Dere må gi oss beskjed via epost om byttet (med hvem og hvilke tidspunkter det gjelder)
+
           
 ## Opplegg
 * Maks poeng på den muntlige eksamen er 12 poeng (4/6 av total maks-poeng)
@@ -76,21 +90,5 @@ Den muntlige eksamen kan maksimalt gi 12 poeng. Poengsettingen vil skje i henhol
 | C og D |**Tilstrekkelig god besvarelse**. Presentasjonen dekker de fleste sentrale temaene knyttet til spørsmålene, og er i tråd med økonomisk teori. OG Kandidaten klarer å svare på de fleste spørsmålene fra sensorene. OG Svarene viser at kandidaten har god økonomisk forståelse for sentrale temaer og konklusjoner fra kurset. OG Mangler og feil i besvarelsen er ikke fundamentale.|
 | E og F | **Ikke tilstrekkelig god besvarelse**. Presentasjonen mangler FLERE sentrale temaer knyttet til spørsmålene. ELLER: Kandidaten KLARER IKKE å besvare spørsmål fra sensorene, eller klarer kun å svare med mye hjelp fra sensorene. ELLER: Svarene viser mangelfull økonomisk forståelse for sentrale temaer og konklusjoner fra kurset. Besvarelsen mangler flere sentrale temaer og/eller konklusjoner ELLER: Besvarelsen inneholder fundamentale feil. |
 
-
-## Tid for eksamen
-Informasjon kommer
-
-## Skjema Muntlig eksamen
-
-Skjema og plass for muntlig eksamen blir publisert på Canvas seinest 1 uke før eksamen.
-
-**Eksamen starter på det klokkeslett som blir angitt i skjemaet. Vi ønsker at dere er på plass minst 5 minutter før eksamen starter**.
-
-### Bytte av tid
-Det er lov å bytte tidspunkt, men det er regler knyttet til bytte. 
-
-* Dere må selv finne en person å bytte med (vi vil ikke ordne med bytter til dere).
-* Dere må få byttet godkjent av denne personen
-* Dere må gi oss beskjed via epost om byttet (med hvem og hvilke tidspunkter det gjelder)
 
 
