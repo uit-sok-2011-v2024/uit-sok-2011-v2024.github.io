@@ -4,6 +4,9 @@
 
 # Muntlig eksamen
 
+## Tidspunkt
+* 3. - 7. juni 2024
+          
 ## Opplegg
 * Maks poeng på den muntlige eksamen er 12 poeng (4/6 av total maks-poeng)
 * Den muntlige eksamen blir gjennomført **individuelt**.
