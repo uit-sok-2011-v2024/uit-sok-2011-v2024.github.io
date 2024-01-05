@@ -4,6 +4,14 @@
 # Forelesninger
 Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortløpende
 
+## Tema 1: Økonomisk vekst
+
+* [Introduksjonsforelesning](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/F1_intro_v24.pdf)
+
+## Tema 2: Befolkning og demografi
+
+## Tema 3: Bærekraftig utvikling
+
 
 # Seminar
 Her finner du lenker til notater og ressurser til seminarene
@@ -14,11 +22,11 @@ Her finner du lenker til notater og ressurser til seminarene
 * [Solowmodellen med naturressurser - matematisk utledning](https://youtu.be/MuUxb7R1MKE)
 * Andre versjoner av Solow-modellen (annerledes fra pensumboka!)
   * [Antakelser "standard-Solow BAS"](https://youtu.be/JVIaH1djNrM)
-  * [Solow BAS modell](https://youtu.be/aNFKSpEIBrI)
-  * [Solow BAS - Faktiske og nødvendige investeringer](https://youtu.be/QSb8_ME7DVY)
-  * [Solow BAS - Utvikling i produksjonsfaktorene](https://youtu.be/79NAPF2noko)
-  * [Solow BAS - Grafisk utledning av steady state](https://youtu.be/wHjo7JY2qmE) 
-  * [Solow BAS - Matematisk utledning av steady state](https://youtu.be/OfOLmG-sTbw)  
+  * [Solow grunnmodell](https://youtu.be/aNFKSpEIBrI)
+  * [Solow grunnmodell - Faktiske og nødvendige investeringer](https://youtu.be/QSb8_ME7DVY)
+  * [Solow grunnmodell - Utvikling i produksjonsfaktorene](https://youtu.be/79NAPF2noko)
+  * [Solow grunnmodell - Grafisk utledning av steady state](https://youtu.be/wHjo7JY2qmE) 
+  * [Solow grunnmodell - Matematisk utledning av steady state](https://youtu.be/OfOLmG-sTbw)  
   * [Solow med teknologisk utvikling (knyttet til arbeid) - vekst](https://youtu.be/Bx3NIOtVwxI)  
   * [Solow med teknologisk utvikling (knyttet til arbeid)](https://youtu.be/Bx3NIOtVwxI)  
   * [Solow med teknologisk utvikling (knyttet til arbeid) - Matematisk utleding av steady state del 1](https://youtu.be/YVncuuOEkeA)  
