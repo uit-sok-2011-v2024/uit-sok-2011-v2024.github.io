@@ -18,7 +18,7 @@ Undervisningen på SOK-2011 består av fysiske forelesninger og fysiske seminare
 |Uke |Dato         | Dag       |Forelesning/Seminar | Tema                                             |Pensum        |
 |----|-------------|-----------------------------------------------------------------------------------|--------------| 
 |02  | 08/01/2024  | Mandag    |Forelesning          | Introduksjon til kurset                         |              |
-|02  | 11/01/2024  | Torsdag   |Forelesning          | Introduksjon til økonomisk vekst.               |Hess, kap. 1  |
+|02  | 11/01/2024  | Torsdag   |Forelesning          | Introduksjon til økonomisk vekst.               |Hess, kap. 1, 7  |
 |03  | 15/01/2024  | Mandag    |Forelesning          | ØV: Solow-modellen                              |Hess, kap. 7  |
 |03  | 16/01/2024  | Tirsdag   |<span style="color:blue">Seminar</span>| ØV: Solow basmodell                             |Hess, kap. 7 |
 |04  | 23/01/2024  | Tirsdag   |Forelesning          | ØV: Solowmodellen med teknologi                 |Hess, kap. 7  |
