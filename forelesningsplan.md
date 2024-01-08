@@ -19,13 +19,13 @@ Undervisningen på SOK-2011 består av fysiske forelesninger og fysiske seminare
 |----|-------------|-----------------------------------------------------------------------------------|--------------| 
 |02  | 08/01/2024  | Mandag    |Forelesning          | Introduksjon til kurset                         |              |
 |02  | 11/01/2024  | Torsdag   |Forelesning          | Introduksjon til økonomisk vekst.               |Hess, kap. 1, 7  |
-|03  | 15/01/2024  | Mandag    |Forelesning          | ØV: Solow-modellen                              |Hess, kap. 7  |
-|03  | 16/01/2024  | Tirsdag   |<span style="color:blue">Seminar</span>| ØV: Solow basmodell                             |Hess, kap. 7 |
-|04  | 23/01/2024  | Tirsdag   |Forelesning          | ØV: Solowmodellen med teknologi                 |Hess, kap. 7  |
-|04  | 25/01/2024  | Torsdag   |<span style="color:blue">Seminar</span>| ØV: Solowmodellen med teknologi                 |Hess, kap. 7  |
+|03  | 15/01/2024  | Mandag    |Forelesning          | ØV: Solow-modellen                              |Hess, kap. 1, 7  |
+|03  | 16/01/2024  | Tirsdag   |<span style="color:blue">Seminar</span>| ØV: Solow basmodell                             |Hess, kap. 1, 7 |
+|04  | 23/01/2024  | Tirsdag   |Forelesning          | ØV: Solowmodellen med teknologi                 |Hess, kap. 1, 7  |
+|04  | 25/01/2024  | Torsdag   |<span style="color:blue">Seminar</span>| ØV: Solowmodellen med teknologi                 |Hess, kap. 1, 7  |
 |05  | 29/01/2024  | Mandag    |Forelesning          | ØV: Solowmodellen med naturressurser            |Hess, kap. 7  |
-|05  | 01/02/2024  | Torsdag   |<span style="color:blue">Seminar</span>| ØV: Solowmodellen med naturressurser            |Hess, kap. 7  |
-|06  | 05/02/2024  | Mandag    |Forelesning          | ØV: Empirisk analyse av Solow-modellen          |Hess, kap. 8  |
+|05  | 01/02/2024  | Torsdag   |<span style="color:blue">Seminar</span>| ØV: Solowmodellen med naturressurser            |Hess, kap. 1, 7  |
+|06  | 05/02/2024  | Mandag    |Forelesning          | ØV: Empirisk analyse av Solow-modellen          |Hess, kap. 1, 8  |
 |06  | 08/02/2024  | Torsdag   |<span style="color:blue">Seminar</span>| US: Intro utfordring 1 og 2   |Hess, kap. 1,7,8 |
 |07  | 12/02/2024  | Mandag    |<span style="color:blue">Seminar</span>| US: Utfordring 1              |Hess, kap. 1,7,8|
 |07  | 15/02/2024  | Torsdag   |<span style="color:blue">Seminar</span>| US: Utfordring 1              |Hess, kap. 1,7,8|
