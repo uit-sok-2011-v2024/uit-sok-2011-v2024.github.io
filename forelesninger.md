@@ -39,6 +39,8 @@ Her finner du andre ressurser som du kan ha nytte av.
 Matematikk:
 * [Noen matematikk-regler](https://github.com/uit-sok-2011-v23/uit-sok-2011-v23.github.io/blob/main/assets/Matematikk.pdf)
 * [Film: matematikk 1 - Matematiske spørsmål](https://youtu.be/BgDntxXBW_Q)
+* [Øvelseoppgaver i matematikk](https://uit-sok-2011-v2024.github.io/assets/mathquiz.html)
+* [Fasit til matteøvelser](https://uit-sok-2011-v2024.github.io/assets/mathquiz_solution.html)
 
 Podcasts
 * [Freakonomics: Are E.S.G Investors Actually Helping the Environment?](https://freakonomics.com/podcast/are-e-s-g-investors-actually-helping-the-environment/)
