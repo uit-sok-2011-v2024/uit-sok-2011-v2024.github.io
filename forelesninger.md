@@ -36,6 +36,10 @@ Her finner du lenker til notater og ressurser til seminarene
 # Andre ressurser
 Her finner du andre ressurser som du kan ha nytte av.
 
+Annen litteratur om Solow-modellen:
+* [En beskrivelse av Solow modellen fra foreleser på Brunel University of London](https://github.com/uit-sok-2011-v23/uit-sok-2011-v23.github.io/blob/main/assets/teach_brunel_1011)
+* [En forelesning fra Pensylvania State University (Penn State)](https://www.sas.upenn.edu/~vr0j/oldteaching/econ10205/lectures/grow5_solow.pdf)
+
 Matematikk:
 * [Noen matematikk-regler](https://github.com/uit-sok-2011-v23/uit-sok-2011-v23.github.io/blob/main/assets/Matematikk.pdf)
 * [Film: matematikk 1 - Matematiske spørsmål](https://youtu.be/BgDntxXBW_Q)
