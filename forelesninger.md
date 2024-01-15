@@ -8,6 +8,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 
 * [Introduksjonsforelesning](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/F1_intro_v24.pdf)
 * [Introduksjon til vekst på lang sikt - Solow-modellen (del 1)](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/F2_vekst1_v24.pdf)
+* [Introduksjon til vekst på lang sikt - Solow-modellen (del 2)](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/F3_solow_bas_del2_2024.pdf)
 ## Tema 2: Befolkning og demografi
 
 ## Tema 3: Bærekraftig utvikling
