@@ -9,6 +9,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [Introduksjonsforelesning](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/F1_intro_v24.pdf)
 * [Introduksjon til vekst på lang sikt - Solow-modellen (del 1)](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/F2_vekst1_v24.pdf)
 * [Introduksjon til vekst på lang sikt - Solow-modellen (del 2)](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/F3_solow_bas_del2_2024.pdf)
+
 ## Tema 2: Befolkning og demografi
 
 ## Tema 3: Bærekraftig utvikling
@@ -46,6 +47,7 @@ Matematikk:
 * [Film: matematikk 1 - Matematiske spørsmål](https://youtu.be/BgDntxXBW_Q)
 * [Øvelseoppgaver i matematikk](https://uit-sok-2011-v2024.github.io/assets/mathquiz.html)
 * [Fasit til matteøvelser](https://uit-sok-2011-v2024.github.io/assets/mathquiz_solution.html)
+* * [Utledning av vekstraten i steady state med Hicks-nøytral og Harrod-nøytral teknologi](https://github.com/uit-sok-2011-v23/uit-sok-2011-v23.github.io/blob/main/assets/Utledning_ss_hicks_harrod_fs.pdf)
 
 Podcasts
 * [Freakonomics: Are E.S.G Investors Actually Helping the Environment?](https://freakonomics.com/podcast/are-e-s-g-investors-actually-helping-the-environment/)
