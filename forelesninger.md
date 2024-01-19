@@ -7,7 +7,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 ## Tema 1: Økonomisk vekst
 
 * [Introduksjonsforelesning](https://uit-sok-2011-v2024.github.io/assets/F1_intro_v24.pdf)
-* [Introduksjon til vekst på lang sikt - Solow-modellen (del 1)](https://uit-sok-2011-v2024.github.io/main/assets/F2_vekst1_v24.pdf)
+* [Introduksjon til vekst på lang sikt - Solow-modellen (del 1)](https://uit-sok-2011-v2024.github.io/assets/F2_vekst1_v24.pdf)
 * [Introduksjon til vekst på lang sikt - Solow-modellen (del 2)](https://uit-sok-2011-v2024.github.io/assets/F3_solow_bas_del2_2024.pdf)
 
 ## Tema 2: Befolkning og demografi
@@ -39,7 +39,7 @@ Her finner du lenker til notater og ressurser til seminarene
 Her finner du andre ressurser som du kan ha nytte av.
 
 Annen litteratur om Solow-modellen:
-* [En beskrivelse av Solow modellen fra foreleser på Brunel University of London](https://uit-sok-2011-v23.github.io/assets/teach_brunel_1011)
+* [En beskrivelse av Solow modellen fra foreleser på Brunel University of London](https://uit-sok-2011-v2024.github.io/assets/Teach_brunel_1011.pdf)
 * [En forelesning fra Pensylvania State University (Penn State)](https://www.sas.upenn.edu/~vr0j/oldteaching/econ10205/lectures/grow5_solow.pdf)
 
 Matematikk:
