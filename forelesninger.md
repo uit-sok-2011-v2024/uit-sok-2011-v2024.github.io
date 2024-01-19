@@ -6,9 +6,9 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 
 ## Tema 1: Økonomisk vekst
 
-* [Introduksjonsforelesning](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/F1_intro_v24.pdf)
-* [Introduksjon til vekst på lang sikt - Solow-modellen (del 1)](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/F2_vekst1_v24.pdf)
-* [Introduksjon til vekst på lang sikt - Solow-modellen (del 2)](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/F3_solow_bas_del2_2024.pdf)
+* [Introduksjonsforelesning](https://uit-sok-2011-v2024.github.io/assets/F1_intro_v24.pdf)
+* [Introduksjon til vekst på lang sikt - Solow-modellen (del 1)](https://uit-sok-2011-v2024.github.io/main/assets/F2_vekst1_v24.pdf)
+* [Introduksjon til vekst på lang sikt - Solow-modellen (del 2)](https://uit-sok-2011-v2024.github.io/assets/F3_solow_bas_del2_2024.pdf)
 
 ## Tema 2: Befolkning og demografi
 
@@ -39,15 +39,15 @@ Her finner du lenker til notater og ressurser til seminarene
 Her finner du andre ressurser som du kan ha nytte av.
 
 Annen litteratur om Solow-modellen:
-* [En beskrivelse av Solow modellen fra foreleser på Brunel University of London](https://github.com/uit-sok-2011-v23/uit-sok-2011-v23.github.io/blob/main/assets/teach_brunel_1011)
+* [En beskrivelse av Solow modellen fra foreleser på Brunel University of London](https://uit-sok-2011-v23.github.io/assets/teach_brunel_1011)
 * [En forelesning fra Pensylvania State University (Penn State)](https://www.sas.upenn.edu/~vr0j/oldteaching/econ10205/lectures/grow5_solow.pdf)
 
 Matematikk:
-* [Noen matematikk-regler](https://github.com/uit-sok-2011-v23/uit-sok-2011-v23.github.io/blob/main/assets/Matematikk.pdf)
+* [Noen matematikk-regler](https://uit-sok-2011-v23.github.io/assets/Matematikk.pdf)
 * [Film: matematikk 1 - Matematiske spørsmål](https://youtu.be/BgDntxXBW_Q)
 * [Øvelseoppgaver i matematikk](https://uit-sok-2011-v2024.github.io/assets/mathquiz.html)
 * [Fasit til matteøvelser](https://uit-sok-2011-v2024.github.io/assets/mathquiz_solution.html)
-* [Utledning av vekstraten i steady state med Hicks-nøytral og Harrod-nøytral teknologi](https://github.com/uit-sok-2011-v2024/uit-sok-2011-v2024.github.io/blob/main/assets/Utledning_ss_hicks_harrod_fs.pdf)
+* [Utledning av vekstraten i steady state med Hicks-nøytral og Harrod-nøytral teknologi](https://uit-sok-2011-v2024.github.io/assets/Utledning_ss_hicks_harrod_fs.pdf)
 
 Podcasts
 * [Freakonomics: Are E.S.G Investors Actually Helping the Environment?](https://freakonomics.com/podcast/are-e-s-g-investors-actually-helping-the-environment/)
