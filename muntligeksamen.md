@@ -38,17 +38,15 @@ Etter din presentasjon vil sensorene kunne stille spørsmål til presentasjonen 
 
 * *Instruksjon*: Husk å knytte din besvarelse både til økonomisk teori, og til kursstoffet.
   
-* Maks poeng: 8 poeng.
+* Maks poeng: 6 poeng.
 * Tid: 15 minutter
   
 ### Del 2
-I den andre delen av den muntlige eksamen vil du få **en** tilfeldig trukket oppgave knyttet til bærekraftig økonomisk vekst og befolkningsutvikling. Det kan kreves grafisk illustrasjon og/eller tolkning av matematiske ligninger for å besvare spørsmålene. 
-
-Spørsmålsbanken vil bli publisert seinest 1 uke før den muntlige eksamen.
+I den andre delen av den muntlige eksamen vil du få **en** tilfeldig trukket oppgave knyttet til bærekraftig økonomisk vekst, befolkningsutvikling eller bærekraftig utvikling. Det kan kreves grafisk illustrasjon og/eller tolkning av matematiske ligninger for å besvare spørsmålene. 
 
 * *Instruksjon*: Husk å knytte din besvarelse både til økonomisk teori, og til kursstoffet.
 
-* Maks poeng: 4 poeng.
+* Maks poeng: 6 poeng.
 * Tid: 10 minutter
 
 ### Eksempler på spørsmål
@@ -65,6 +63,10 @@ $$
 4. Bruk økonomisk teori til å forklare hvordan vi kan forstå at vekstraten i både materiell velferd og befolkning var svært lav fram til 1800-tallet, og at både vekstraten i materiell velferd og befolkning økte betraktelig i slutten av 1800-tallet. 
 
 5. Bruk økonomisk teori til å forklare hvordan vi kan forstå demografiske transisjoner (reduksjon i antall barn per kvinne).
+   
+7. Forklar hvorfor politiker i et land kan finne det vanskelig å føre en politikk for bærekraftig utvikling (f.eks skatter på drivstoff til internasjonale fly, og andre miljøskatter).
+   
+9. Gi to eksempler på eksternaliteter som fører til at det er vanskelig for private markeder å oppnå bærekraftig utvikling. 
 
    
 ## Regler
