@@ -18,7 +18,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 # Seminar
 Her finner du lenker til notater og ressurser til seminarene
 * [Seminar 1 - Solow modellen uten teknologi (kun oppgave)](https://uit-sok-2011-v2024.github.io/assets/Seminar_1_v24.pdf)
-* [Seminar 2 - Solow modellen med teknologi](https://uit-sok-2011-v2024.github.io/assets/Seminar 2 – Solow modellen med teknologisk utvikling.pdf)
+* [Seminar 2 - Solow modellen med teknologi]((https://uit-sok-2008-h23.github.io/assets/Introduksjon_studenter_2023.html))
 
 # Filmer: Solow-modellen
 * [Solowmodellen med teknologi - matematisk utledning](https://youtu.be/lC-IczavEik)
