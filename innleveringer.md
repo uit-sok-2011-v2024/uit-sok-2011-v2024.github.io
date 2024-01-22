@@ -8,6 +8,7 @@
 - Skriftlige mappeoppgaver leveres i Canvas.
 - Hver innlevering kan gi maks 3 poeng (1/6 av karakter). Mappen teller totalt til 1/3 av karakter på kurset.
 - Mappeoppgavene skal løses i grupper på maksimalt 3.
+- Alle oppgaver blir sjekket for plagiat.
 - Det er planlagt for seminarer knyttet til mappeoppgavene.
 
 
