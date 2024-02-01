@@ -21,6 +21,7 @@ Her finner du lenker til notater og ressurser til seminarene
 * [Seminar 1 - Solow modellen uten teknologi (kun oppgave)](https://uit-sok-2011-v2024.github.io/assets/Seminar_1_v24.pdf)
 * [Seminar 2 - Solow modellen med teknologi](https://uit-sok-2011-v2024.github.io/assets/seminar_2.html)
 * [Seminar 3 - Solow-modellen med teknologisk utvikling OG naturressurser](https://uit-sok-2011-v2024.github.io/assets/Seminar_3_v24.pdf)
+   * [Kode til oppgave 2 - Seminar 3](https://uit-sok-2011-v2024.github.io/assets/seminar_3_solow_growth_2024.R)
 
 # Filmer: Solow-modellen
 * [Solowmodellen med teknologi - matematisk utledning](https://youtu.be/lC-IczavEik)
