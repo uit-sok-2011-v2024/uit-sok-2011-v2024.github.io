@@ -13,7 +13,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [Solow-modellen med teknologisk utvikling OG naturressurser](https://uit-sok-2011-v2024.github.io/assets/F5_solow_naturressurser_v24.pdf)
 * [Empirisk analyse](https://uit-sok-2011-v2024.github.io/assets/F6_Empiri_2024.pdf)
 ## Tema 2: Befolkning og demografi
-
+* [Befolkningsdynamikk](https://uit-sok-2011-v2024.github.io/assets/F7_befolkning_v2024.pdf)
 ## Tema 3: Bærekraftig utvikling
 
 
