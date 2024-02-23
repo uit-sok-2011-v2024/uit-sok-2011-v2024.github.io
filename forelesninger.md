@@ -16,7 +16,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [Befolkningsdynamikk](https://uit-sok-2011-v2024.github.io/assets/F7_befolkning_v24.pdf)
 ## Tema 3: Bærekraftig utvikling
 
-
+* [Intruksjon til bærekraftig utvikling](https://uit-sok-2011-v2024.github.io/assets/F8_SustDev1_v24.pdf)
 # Seminar
 Her finner du lenker til notater og ressurser til seminarene
 * [Seminar 1 - Solow modellen uten teknologi (kun oppgave)](https://uit-sok-2011-v2024.github.io/assets/Seminar_1_v24.pdf)
