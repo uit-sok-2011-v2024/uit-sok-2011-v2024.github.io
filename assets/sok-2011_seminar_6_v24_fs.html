@@ -3361,65 +3361,63 @@ hdi_{i} = \tilde{\omicron} +\delta_1 \cdot nrr_i  + \delta_2 \cdot \ln(gdp_0) +\
 <section id="oppgave-3" class="level2">
 <h2 class="anchored" data-anchor-id="oppgave-3">Oppgave 3</h2>
 <ul>
-<li>Estimer regresjonsmodellene ved bruk av OLS og sett inn resultatene i to tabeller, én for de enkle modellene (modell 1a - 3a) og én tabell til modellene med kontrollvariabler.</li>
+<li>Estimer regresjonsmodellene ved bruk av OLS og sett inn resultatene i tabeller. Lag tabeller slik at du kan sammenligne resultaten for modeller med og uten kontroll-variabler.</li>
+<li>Visualiser effekten av naturressurser på de avhengige variablene.</li>
 </ul>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># For å kunne visualisere resultatene for naturressurser ønsker vi å bruke datasett med komplette observasjoner</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>df_complete <span class="ot">&lt;-</span> <span class="fu">na.omit</span>(df[, <span class="fu">c</span>(<span class="st">&quot;gy&quot;</span>, <span class="st">&quot;gsi&quot;</span>, <span class="st">&quot;hdi&quot;</span>, <span class="st">&quot;nrr0&quot;</span>, <span class="st">&quot;gsi0&quot;</span>, <span class="st">&quot;hdi0&quot;</span>,<span class="st">&quot;income&quot;</span>, <span class="st">&quot;ln_gdppc0&quot;</span>)])</span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Enkle modeller </span></span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>model1a <span class="ot">&lt;-</span> <span class="fu">lm</span>(<span class="co">#sett inn ligning , data = df_complete)</span></span>
-<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>model2a <span class="ot">&lt;-</span> <span class="fu">lm</span>(<span class="co">#sett inn ligning, data = df_complete)</span></span>
-<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>model3a <span class="ot">&lt;-</span> <span class="fu">lm</span>(<span class="co">#sett inn ligning, data = df_complete)</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(sjPlot)</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(sjmisc)</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(sjlabelled)</span>
 <span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Sett inn resultatene i en tabell</span></span>
-<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a><span class="co"># Her bruker jeg pakken &quot;huxtable&quot; og &quot;jtools&quot;. Du kan bruke en annen pakke dersom du ønsker. </span></span>
-<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(huxtable)</span>
-<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(jtools)</span>
-<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a> <span class="cf">if</span> (<span class="fu">requireNamespace</span>(<span class="st">&quot;huxtable&quot;</span>)) {</span>
-<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>  models_a<span class="ot">&lt;-</span> <span class="fu">export_summs</span>(model1a, model2a, model3a, </span>
-<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>                        <span class="at">model.names =</span> <span class="fu">c</span>(<span class="st">&quot;Model 1a (vekst)&quot;</span>,<span class="st">&quot;Model 2a (GSI)&quot;</span>, <span class="st">&quot;Model 3a (HDI)&quot;</span>), <span class="co"># Navn på de ulike modellene</span></span>
-<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>                         <span class="at">coefs =</span> <span class="fu">c</span>(<span class="st">&quot;Inntekt fra Naturressurser&quot;</span> <span class="ot">=</span> <span class="st">&quot;nrr0&quot;</span></span>
-<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>                        ), </span>
-<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>                        <span class="at">scale =</span> <span class="cn">FALSE</span>, <span class="at">robust =</span> <span class="cn">FALSE</span>, <span class="at">model.info =</span> <span class="cn">TRUE</span>, <span class="at">model.fit =</span> <span class="cn">TRUE</span>, <span class="at">center =</span> <span class="cn">TRUE</span>)</span>
-<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>  <span class="fu">to_md</span>(models_a, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">max_width =</span> <span class="dv">200</span>,)</span>
-<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">print_md</span>(models_a)</span>
-<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a> }</span>
-<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a><span class="co"># Modeller som kontrollerer for initialt nivå og &quot;type&quot; land</span></span>
-<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a>model1b <span class="ot">&lt;-</span> <span class="fu">lm</span>(<span class="co"># sett inn ligning , data = df_complete)</span></span>
-<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a>model2b <span class="ot">&lt;-</span> <span class="fu">lm</span>(<span class="co"># sett inn ligning,  data = df_complete)</span></span>
-<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a>model3b <span class="ot">&lt;-</span> <span class="fu">lm</span>(<span class="co"># sett inn ligning,, data = df_complete)</span></span>
-<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Enkle modeller </span></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>model1a <span class="ot">&lt;-</span> <span class="fu">lm</span>(gy <span class="sc">~</span> nrr0 , <span class="at">data =</span> df_complete)</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>model2a <span class="ot">&lt;-</span> <span class="fu">lm</span>(gsi <span class="sc">~</span> nrr0, <span class="at">data =</span> df_complete)</span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>model3a <span class="ot">&lt;-</span> <span class="fu">lm</span>(hdi <span class="sc">~</span> nrr0, <span class="at">data =</span> df_complete)</span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a><span class="co"># Modeller som kontrollerer for initialt nivå og &quot;type&quot; land</span></span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>model1b <span class="ot">&lt;-</span> <span class="fu">lm</span>(gy <span class="sc">~</span> nrr0 <span class="sc">+</span> gsi0 <span class="sc">+</span> hdi0 <span class="sc">+</span> <span class="sc">+</span> ln_gdppc0 , <span class="at">data =</span> df_complete)</span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>model2b <span class="ot">&lt;-</span> <span class="fu">lm</span>(gsi <span class="sc">~</span> nrr0 <span class="sc">+</span> gsi0 <span class="sc">+</span> hdi0 <span class="sc">+</span> <span class="sc">+</span> ln_gdppc0, <span class="at">data =</span> df_complete)</span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>model3b <span class="ot">&lt;-</span> <span class="fu">lm</span>(hdi <span class="sc">~</span> nrr0 <span class="sc">+</span> gsi0 <span class="sc">+</span> hdi0 <span class="sc">+</span> <span class="sc">+</span> ln_gdppc0, <span class="at">data =</span> df_complete)</span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a><span class="co">#  Tabeller med resultater</span></span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a> <span class="fu">tab_model</span>(</span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a> model1a, model1b, </span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>  <span class="at">pred.labels =</span> <span class="fu">c</span>(<span class="st">&quot;Intercept&quot;</span>, <span class="st">&quot;Naturressurser (% av BNP) 1990-99&quot;</span>, <span class="st">&quot;Justert sparing (GSI) 1990-99&quot;</span>, <span class="st">&quot;HDI 1990-99&quot;</span>,</span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a>                 <span class="st">&quot;Log(BNP 1990-1999)&quot;</span>),</span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a>  <span class="at">dv.labels =</span> <span class="fu">c</span>(<span class="st">&quot;Vekstrate i BNP pc (PPP)&quot;</span>, <span class="st">&quot;Vekstrate i BNP pc (PPP)&quot;</span>),</span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a>  <span class="at">string.pred =</span> <span class="st">&quot;Koeffisent&quot;</span>,</span>
+<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>  <span class="at">string.ci =</span> <span class="st">&quot;Konf. Int (95%)&quot;</span>,</span>
+<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a>  <span class="at">string.p =</span> <span class="st">&quot;P-Verdi&quot;</span></span>
+<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a> )</span>
+<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a><span class="co"># Ta fram resultater for de andre modellene </span></span>
 <span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a><span class="co"># Sett inn resultatene i en tabell</span></span>
-<span id="cb3-34"><a href="#cb3-34" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-35"><a href="#cb3-35" aria-hidden="true" tabindex="-1"></a> <span class="cf">if</span> (<span class="fu">requireNamespace</span>(<span class="st">&quot;huxtable&quot;</span>)) {</span>
-<span id="cb3-36"><a href="#cb3-36" aria-hidden="true" tabindex="-1"></a>  models_b<span class="ot">&lt;-</span> <span class="fu">export_summs</span>(model1b, model2b, model3b, </span>
-<span id="cb3-37"><a href="#cb3-37" aria-hidden="true" tabindex="-1"></a>                        <span class="at">model.names =</span> <span class="fu">c</span>(<span class="st">&quot;Model 1b (vekst)&quot;</span>,<span class="st">&quot;Model 2b (GSI)&quot;</span>, <span class="st">&quot;Model 3b (HDI)&quot;</span>),</span>
-<span id="cb3-38"><a href="#cb3-38" aria-hidden="true" tabindex="-1"></a>                         <span class="at">coefs =</span> <span class="fu">c</span>(<span class="st">&quot;Inntekt fra Naturressurser&quot;</span> <span class="ot">=</span> <span class="st">&quot;nrr0&quot;</span>,</span>
-<span id="cb3-39"><a href="#cb3-39" aria-hidden="true" tabindex="-1"></a>                                   <span class="st">&quot;Log(BNP per innbygger), 1990-99&quot;</span> <span class="ot">=</span><span class="st">&quot;ln_gdppc0&quot;</span>,</span>
-<span id="cb3-40"><a href="#cb3-40" aria-hidden="true" tabindex="-1"></a>                                   <span class="st">&quot;Justert sparing 1990-99&quot;</span><span class="ot">=</span><span class="st">&quot;gsi0&quot;</span>,</span>
-<span id="cb3-41"><a href="#cb3-41" aria-hidden="true" tabindex="-1"></a>                                   <span class="st">&quot;HDI, 1990-99&quot;</span><span class="ot">=</span><span class="st">&quot;hdi0&quot;</span></span>
-<span id="cb3-42"><a href="#cb3-42" aria-hidden="true" tabindex="-1"></a>                        ), </span>
-<span id="cb3-43"><a href="#cb3-43" aria-hidden="true" tabindex="-1"></a>                        <span class="at">scale =</span> <span class="cn">FALSE</span>, <span class="at">robust =</span> <span class="cn">FALSE</span>, <span class="at">model.info =</span> <span class="cn">TRUE</span>, <span class="at">model.fit =</span> <span class="cn">TRUE</span>, <span class="at">center =</span> <span class="cn">TRUE</span>)</span>
-<span id="cb3-44"><a href="#cb3-44" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb3-45"><a href="#cb3-45" aria-hidden="true" tabindex="-1"></a>  <span class="fu">to_md</span>(models_b, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">max_width =</span> <span class="dv">200</span>,)</span>
-<span id="cb3-46"><a href="#cb3-46" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-47"><a href="#cb3-47" aria-hidden="true" tabindex="-1"></a>  <span class="fu">print_md</span>(models_b)</span>
-<span id="cb3-48"><a href="#cb3-48" aria-hidden="true" tabindex="-1"></a> }</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-34"><a href="#cb3-34" aria-hidden="true" tabindex="-1"></a><span class="co"># Visualisering av effekten av naturressurser</span></span>
+<span id="cb3-35"><a href="#cb3-35" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggplot2)</span>
+<span id="cb3-36"><a href="#cb3-36" aria-hidden="true" tabindex="-1"></a><span class="fu">set_theme</span>(<span class="at">base =</span> <span class="fu">theme_classic</span>(), <span class="co"># Fjern bakgrunnsfarge</span></span>
+<span id="cb3-37"><a href="#cb3-37" aria-hidden="true" tabindex="-1"></a>          <span class="at">theme.font =</span> <span class="st">&#39;serif&#39;</span>,   <span class="co"># Bestem font</span></span>
+<span id="cb3-38"><a href="#cb3-38" aria-hidden="true" tabindex="-1"></a>          <span class="at">axis.title.size =</span> <span class="fl">1.5</span>,  <span class="co"># Størrelse på x-aksel</span></span>
+<span id="cb3-39"><a href="#cb3-39" aria-hidden="true" tabindex="-1"></a>          <span class="at">axis.textsize.x =</span> <span class="fl">1.2</span>,  <span class="co"># Størrelse på ticks på x-aksel</span></span>
+<span id="cb3-40"><a href="#cb3-40" aria-hidden="true" tabindex="-1"></a>          <span class="at">axis.textsize.y =</span> <span class="fl">1.2</span>)  <span class="co"># Størrelse på ticks på y-aksel</span></span>
+<span id="cb3-41"><a href="#cb3-41" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-42"><a href="#cb3-42" aria-hidden="true" tabindex="-1"></a><span class="fu">plot_model</span>(model1a, <span class="at">type=</span><span class="st">&quot;pred&quot;</span>, <span class="at">terms =</span> <span class="st">&quot;nrr0&quot;</span>, <span class="at">axis.title =</span> <span class="fu">c</span>(<span class="st">&quot;Naturressurser (% av BNP pc)&quot;</span>,<span class="st">&quot;Vekstrate i BNP pc&quot;</span>), <span class="at">title =</span> <span class="st">&quot;Predikerte verdier av naturressurser på vekstraten i BNP per capita&quot;</span>)</span>
+<span id="cb3-43"><a href="#cb3-43" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-44"><a href="#cb3-44" aria-hidden="true" tabindex="-1"></a><span class="co"># Ta fram plotter for de andre resultatene</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 </section>
 <section id="oppgave-4" class="level1">
 <h1>Oppgave 4</h1>
 <ul>
-<li>Tolke dine funn i tabellene.
+<li>Tolke dine funn
 <ul>
+<li>Hvorfor endres størrelsen og signifikansen til nnr0 mellom modell-type a og b?</li>
 <li>Hvilke konklusjoner i forhold til “naturressursenes forbannelse” kan vi trekke fra disse modellene?</li>
 <li>Er det variabler som vi burde hatt med?</li>
 <li>Kan det være andre problemer med modellene som fører til at vi ikke kan stole på resultatene?</li>
