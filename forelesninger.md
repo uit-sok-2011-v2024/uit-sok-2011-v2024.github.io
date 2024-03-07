@@ -27,6 +27,9 @@ Her finner du lenker til notater og ressurser til seminarene
 * [Seminar 4 - Introduksjon til mappeoppgaven (utfordring) 1 og 2](https://uit-sok-2011-v2024.github.io/assets/Seminar_4_introtutf.pdf)
 * [Seminar 5 - Hvordan måle bærekraftig utvikling?](https://uit-sok-2011-v2024.github.io/assets/sok-2011_seminar_5_v24.html)
 * [Seminar 6 - Naturressursenes forbannelse](https://uit-sok-2011-v2024.github.io/assets/sok-2011_seminar_6_v24_fs.html)
+    * [Seminar 6 - med fullstendig kode](https://uit-sok-2011-v2024.github.io/assets/sok-2011_seminar_6_v24.html)
+
+  
 # Filmer: Solow-modellen
 * [Solowmodellen med teknologi - matematisk utledning](https://youtu.be/lC-IczavEik)
 * [Bevis for konstant K/Y i steady state - matematisk utledning (overkurs)](https://youtu.be/X5E_lnNk1G4)
