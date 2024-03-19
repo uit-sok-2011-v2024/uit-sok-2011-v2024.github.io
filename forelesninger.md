@@ -18,6 +18,9 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 
 * [Intruksjon til bærekraftig utvikling](https://uit-sok-2011-v2024.github.io/assets/F8_SustDev1_v24.pdf)
 * [Naturressurser](https://uit-sok-2011-v2024.github.io/assets/F9_BU_2_v2024.pdf)
+* [Global tilgang til mat](https://uit-sok-2011-v2024.github.io/assets/F10_BU_mat_2024.pdf)
+
+ 
 # Seminar
 Her finner du lenker til notater og ressurser til seminarene
 * [Seminar 1 - Solow modellen uten teknologi (kun oppgave)](https://uit-sok-2011-v2024.github.io/assets/Seminar_1_v24.pdf)
