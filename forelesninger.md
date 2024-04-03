@@ -32,7 +32,7 @@ Her finner du lenker til notater og ressurser til seminarene
 * [Seminar 6 - Naturressursenes forbannelse](https://uit-sok-2011-v2024.github.io/assets/sok-2011_seminar_6_v24_fs.html)
     * [Seminar 6 - med fullstendig kode](https://uit-sok-2011-v2024.github.io/assets/sok-2011_seminar_6_v24.html)
 * [Feedback-seminar utfordring 1](https://uit-sok-2011-v2024.github.io/assets/Feedback_seminar_utf1_2024.pdf)
-* [Utfordringsseminar utfordring 2](https://uit-sok-2011-v2024.github.io/assets/Utfordringsseminar - utfordring 2.pdf)
+* [Utfordringsseminar utfordring 2](https://uit-sok-2011-v2024.github.io/assets/Utfordringsseminar_utf_2.pdf)
   
 # Filmer: Solow-modellen
 * [Solowmodellen med teknologi - matematisk utledning](https://youtu.be/lC-IczavEik)
