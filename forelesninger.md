@@ -20,6 +20,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [Naturressurser](https://uit-sok-2011-v2024.github.io/assets/F9_BU_2_v2024.pdf)
 * [Global tilgang til mat](https://uit-sok-2011-v2024.github.io/assets/F10_BU_mat_2024.pdf)
 * [Politikk for bærekraftig utvikling - Del 1](https://uit-sok-2011-v2024.github.io/assets/F11_SustDev4_politikk_1_2024.pdf)
+* [Politikk for bærekraftig utvikling - Del 2](https://uit-sok-2011-v2024.github.io/assets/F11_SustDev4_politikk_2_2024.pdf)
 
  
 # Seminar
