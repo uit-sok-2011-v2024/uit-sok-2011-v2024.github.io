@@ -31,8 +31,8 @@ I den første delen av eksamen skal du gi en presentasjon om bærekraftig utvikl
 
 1.	Forstår hva bærekraftig utvikling er for noe og har kunnskap om predikerte effekter av klimaendringer. Foreslått tidsbruk: 4 min
 2.	Forstår hvorfor det kan være nødvendig med offentlige inngrep for å oppnå bærekraftig utvikling (hvorfor det er vanskelig for private markeder å oppnå bærekraftig utvikling): Foreslått tidsbruk: 4 min
-3.	Forstår hvorfor det kan være utfordrende å få til offentlige inngrep og internasjonale avtaler som fremmer bærekraftig utvikling. Foreslått tidsbruk: 3 min
-4.	Kan gi et eksempel på og forklare et offentlig inngrep som har til mål å fremme bærekraftig utvikling. Foreslått tidsbruk: 4 min
+3.	Kan gi et eksempel på og forklare et offentlig inngrep som har til mål å fremme bærekraftig utvikling. Foreslått tidsbruk: 4 min
+4.	Forstår hvorfor det kan være utfordrende å få til offentlige inngrep og internasjonale avtaler som fremmer bærekraftig utvikling. Foreslått tidsbruk: 3 min
 
 Etter din presentasjon vil sensorene kunne stille spørsmål til presentasjonen din.
 
