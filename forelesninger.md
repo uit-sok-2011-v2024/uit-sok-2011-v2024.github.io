@@ -35,6 +35,7 @@ Her finner du lenker til notater og ressurser til seminarene
     * [Seminar 6 - med fullstendig kode](https://uit-sok-2011-v2024.github.io/assets/sok-2011_seminar_6_v24.html)
 * [Feedback-seminar utfordring 1](https://uit-sok-2011-v2024.github.io/assets/Feedback_seminar_utf1_2024.pdf)
 * [Utfordringsseminar utfordring 2](https://uit-sok-2011-v2024.github.io/assets/Utfordringsseminar_utf_2.pdf)
+* [Seminar 7 - tiltak for økt bærekraft](https://uit-sok-2011-v2024.github.io/assets/seminar_BU_politikk.pdf)
   
 # Filmer: Solow-modellen
 * [Solowmodellen med teknologi - matematisk utledning](https://youtu.be/lC-IczavEik)
