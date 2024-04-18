@@ -22,7 +22,9 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [Politikk for bærekraftig utvikling - Del 1](https://uit-sok-2011-v2024.github.io/assets/F11_SustDev4_politikk_1_2024.pdf)
 * [Politikk for bærekraftig utvikling - Del 2](https://uit-sok-2011-v2024.github.io/assets/F11_SustDev4_politikk_2_2024.pdf)
 
- 
+## Oppsummering og informasjon om muntlig eksamen
+* [Oppsummering](https://uit-sok-2011-v2024.github.io/assets/F13_oppsummering_2024.pdf)
+* [Informasjon om muntlig eksamen](https://uit-sok-2011-v2024.github.io/assets/F12_muntligeksamen_2024.pdf)
 # Seminar
 Her finner du lenker til notater og ressurser til seminarene
 * [Seminar 1 - Solow modellen uten teknologi (kun oppgave)](https://uit-sok-2011-v2024.github.io/assets/Seminar_1_v24.pdf)
